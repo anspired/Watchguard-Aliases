@@ -1,0 +1,7 @@
+fqdn,*.webrootcloudav.com
+fqdn,*.webroot.com
+fqdn,WSAWebFilteringPortal.elasticbeanstalk.com
+fqdn,*.webrootanywhere.com
+fqdn,wrskynet.s3.amazonaws.com
+fqdn,wrskynet-eu.s3-eu-west-1.amazonaws.com
+fqdn,wrskynet-oregon.s3-us-west-2.amazonaws.com
